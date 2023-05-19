@@ -1,3 +1,5 @@
 I have added the text to the hello_world.txt file.
 
 I am using vi to do this, which is illegal.
+
+lolz, I just opened vi from within vs code.
